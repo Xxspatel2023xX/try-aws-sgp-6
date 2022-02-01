@@ -18,6 +18,12 @@
           "userPoolName": "tryawssgp2db0bbcf_userpool_2db0bbcf-dev",
           "webClientId": "1tsn6mteas808d816vgl9skog9",
           "nativeClientId": "gg3c5lunhaa847oqrcbmm69sj"
+        },
+        "tryawssgp66c4ced05": {
+          "userPoolId": "us-east-1_LjpUPQubo",
+          "userPoolName": "tryawssgp2db0bbcf_userpool_2db0bbcf-dev",
+          "webClientId": "1tsn6mteas808d816vgl9skog9",
+          "nativeClientId": "gg3c5lunhaa847oqrcbmm69sj"
         }
       }
     }
