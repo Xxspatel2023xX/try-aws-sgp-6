@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "tryawssgp6abd3bd09": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
